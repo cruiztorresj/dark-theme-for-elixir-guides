@@ -1,0 +1,25 @@
+html, body { background-color: black; }
+
+pre { background-color: black; }
+
+h1, h2, h3 { color: yellow; }
+
+a { color: lightgoldenrodyellow; }
+
+a:visited { color: darkmagenta; }
+
+li > span { color: burlywood; }
+
+pre > code { color: lavender; }
+
+.dtno {
+	
+	color: #52527A;
+	font-weight: bold;
+}
+
+#container {
+	
+	background-color: black;
+	color: yellowgreen;
+}
