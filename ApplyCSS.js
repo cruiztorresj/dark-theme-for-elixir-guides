@@ -16,6 +16,7 @@
   applyColorToClassElements('mb', '#099');
   applyColorToClassElements('no', 'darkkhaki');
   applyColorToClassElements('gp', 'lavender');
+  applyColorToClassElements('nt', 'chocolate');
   applyColorWithDifferentiator('n', 'orange', 'iex');
   applyColorWithDifferentiator('o', 'antiquewhite', 'o');
 
